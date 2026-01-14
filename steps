@@ -2,7 +2,7 @@ git init
 git add *
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/ahmed0tolba/delta-construction.git
+git remote add origin https://github.com/ahmed0tolba/mega-construction.git
 git push -u origin main
 
 https://ahmed0tolba.github.io/educational_instatute/
